@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="./css/blmap.css">
+</head>
+<body>
+    <div id="image-map-pro-container"></div>
+    <script src="jquery.min.js"></script>
+    <script src="image-map-pro.min.js"></script>
+<script type="text/javascript" src="beaverlakemap_absolute.js"></script>
+</body>
+</html>
