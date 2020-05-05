@@ -7,6 +7,6 @@
     <div id="image-map-pro-container"></div>
     <script src="./scripts/jquery.min.js"></script>
     <script src="./scripts/image-map-pro.min.js"></script>
-<script type="text/javascript" src="/scripts/blmap.js"></script>
+<script type="text/javascript" src="./scripts/blmap.js"></script>
 </body>
 </html>
